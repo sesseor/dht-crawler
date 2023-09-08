@@ -5,3 +5,4 @@ you can use this code snippet to get peers for a torrent you are looking for usi
 
 you need to install the `bencodepy` module using `pip install bencode.py`
 
+ik this is a messy code thats why i am working on another and a better one   
